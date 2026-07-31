@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Foreground wrapper: bitmap centered, keep padding for adaptive masks -->
+    <item android:top="8dp" android:bottom="8dp" android:left="8dp" android:right="8dp">
+        <bitmap android:src="@drawable/ic_app_logo" android:gravity="center" />
+    </item>
+</layer-list>
