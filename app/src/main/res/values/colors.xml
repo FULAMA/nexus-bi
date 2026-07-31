@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette professionnelle, accessible -->
+    <color name="primary">#0D47A1</color>          <!-- Bleu foncé -->
+    <color name="primary_variant">#08306B</color>
+    <color name="secondary">#00ACC1</color>        <!-- Cyan/Accent -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+</resources>
