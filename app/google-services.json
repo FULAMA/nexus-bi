@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314936970478",
+    "project_id": "nexusbi-5edf0",
+    "storage_bucket": "nexusbi-5edf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314936970478:android:1055fa2a46e416596c37ff",
+        "android_client_info": {
+          "package_name": "com.example.nexusbi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmruSkPQVmI88Z1PcHx5RYIsF0cVr4ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
