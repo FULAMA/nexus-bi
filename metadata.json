@@ -1,0 +1,24 @@
+{
+  "name": "Remix Nexus BI",
+  "displayName": "Nexus BI — Remix",
+  "description": "Application d'analyse de données importée depuis le dépôt GitHub FULAMA/nexus-bi. Fournit pipelines ETL, transformations et tableaux de bord pour l'analyse métier.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "FULAMA",
+      "contact": "https://github.com/FULAMA"
+    }
+  ],
+  "license": "MIT",
+  "tags": ["BI", "data", "analytics", "ETL", "dashboard"],
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "privacy": {
+    "collectsUserData": false
+  },
+  "support": {
+    "url": "https://github.com/FULAMA/nexus-bi"
+  }
+}
